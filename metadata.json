@@ -1,0 +1,5 @@
+{
+  "name": "ReservApp",
+  "description": "Una plataforma universitaria para descubrir, reservar y ofrecer servicios estudiantiles exclusivamente en los campus de Tecmilenio.",
+  "requestFramePermissions": []
+}
